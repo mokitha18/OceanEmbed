@@ -1,0 +1,17 @@
+streamlit
+xarray
+netCDF4
+pandas
+numpy
+scipy
+torch
+torchvision
+copernicusmarine
+earthaccess
+python-dotenv
+plotly
+folium
+streamlit-folium
+pydeck
+matplotlib
+urllib3<2.0
